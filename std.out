@@ -1,0 +1,30 @@
+License request failed for feature
+
+Requesting CREODMA_StudentP3 ...
+C:\ProgramData\PTC\Licensing\BW410909ED9317-SYNF-DC7G_license.dat: (-21) License file does not support this version.
+C:\ProgramData\PTC\Licensing\BW600912ED5083-FKWW-TNHH_license.dat: (-10) Feature has expired.
+
+Displaying status for license file: C:\ProgramData\PTC\Licensing\BW410909ED9317-SYNF-DC7G_license.dat
+                       License    In Use   Free   Version    Expire Date Days Remaining     SCN 
+                       -------    ------   ----   -------    ----------- --------------    -----
+             CREODMA_StudentP3       Uncounted      35.0     11-dec-2021    Expiried           StudentP3 Locked to: DC-71-96-8A-5F-25
+             CREOLAY_StudentP3       Uncounted      35.0     11-dec-2021    Expiried           StudentP3 Locked to: DC-71-96-8A-5F-25
+          MECBASICUI_Academic3       Uncounted      35.0     11-dec-2021    Expiried           Academic3 Locked to: DC-71-96-8A-5F-25
+         MECBASICENG_Academic3       Uncounted      35.0     11-dec-2021    Expiried           Academic3 Locked to: DC-71-96-8A-5F-25
+             CREOPMA_StudentP3       Uncounted      35.0     11-dec-2021    Expiried           StudentP3 Locked to: DC-71-96-8A-5F-25
+
+Displaying status for license file: C:\ProgramData\PTC\Licensing\BW600912ED5083-FKWW-TNHH_license.dat
+                       License    In Use   Free   Version    Expire Date Days Remaining     SCN 
+                       -------    ------   ----   -------    ----------- --------------    -----
+             CREODMA_StudentP3       Uncounted      37.0     15-jun-2022    Expiried           StudentP3 Locked to: 98-FA-9B-83-CB-5C
+         MECBASICENG_Academic3       Uncounted      37.0     15-jun-2022    Expiried           Academic3 Locked to: 98-FA-9B-83-CB-5C
+             CREOLAY_StudentP3       Uncounted      37.0     15-jun-2022    Expiried           StudentP3 Locked to: 98-FA-9B-83-CB-5C
+          MECBASICUI_Academic3       Uncounted      37.0     15-jun-2022    Expiried           Academic3 Locked to: 98-FA-9B-83-CB-5C
+             CREOPMA_StudentP6#      Uncounted      37.0     15-jun-2022    Expiried           StudentP6 Locked to: 98-FA-9B-83-CB-5C
+            CREOILLUS_STANDARD#      Uncounted       6.0     15-jun-2022    Expiried           STANDARD Locked to: 98-FA-9B-83-CB-5C
+
+
+ERROR - C:\Program Files\PTC\Creo 6.0.5.1\Common Files\text\config.pro, linenum 1 :  Keyword 'DRAWING_SETUP_FILE' is not valid.
+ERROR - C:\Program Files\PTC\Creo 6.0.5.1\Common Files\text\config.pro, linenum 2 :  Keyword 'FORMAT_SETUP_FILE' is not valid.
+ERROR - C:\Program Files\PTC\Creo 6.0.5.1\Common Files\text\config.pro, linenum 11:  Keyword 'TODAYS_DATE_NOTE_FORMAT' is not valid.
+ERROR - C:\Program Files\PTC\Creo 6.0.5.1\Common Files\text\config.pro, linenum 13:  Keyword 'WELD_UI_STANDARD' is not valid.
