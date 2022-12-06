@@ -1,0 +1,39 @@
+STEP in Solid Edge konvertieren
+Datum: Dienstag,Dezember 06,2022 12:30AM
+Quelldatei: C:\Maturaprojekt\Maturaprojekt\Endgültiges\00_probe_Hinten.stp
+Autor: 43664
+Organisation: Unbekannt
+Ausgangssystem: CREO PARAMETRIC BY PTC INC, 2020342
+
+Hardware:
+Prozessor: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz
+Betriebssystem: Windows 8
+Installierter Speicher: 15.79 GB
+
+Software-Informationen
+Parasolid-Version: 30.1.278
+PSBodyShop-Version: 30.1.94
+Step-Adapterversion: 4.0.108
+Solid Edge-Version: 219.00.11.004 x64
+
+Step-Importoptionen
+Facettierte Körper importieren: Ein
+Prüfkörper importieren: Aus
+Kurven importieren: Ein
+DoNotSave importieren: Ein
+Mehrere Körper als Einzelteildatei importieren: Ein
+Flächenvernähung importieren: Ein
+Boolesche Körper importieren: Ein
+Basisformelement erstellen: Ein
+Geometrie vereinfachen: Ein
+Druckkurven importieren: Ein
+Führung importieren: C:
+Flächenvernähung importieren: Ein
+Flächen importieren: Ein
+Ausgabepfad importieren: C:\Maturaprojekt\Maturaprojekt\Endgültiges
+Aktivieren des standardmäßigen Ausgabepfads importieren: Ein
+Pfad importieren: 
+
+Übersetzen in Parasolid-Datentypen...
+Konvertierungsvorgang ist abgeschlossen
+Zur Übersetzung und Nachbearbeitung erforderte Gesamtzeit:00 : 00 : 02
